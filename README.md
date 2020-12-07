@@ -1,3 +1,5 @@
+Note: Drafts of posts are in the wiki for this repository on github, if you would like to submit changes or prs that is totally fine and welcome. 
+
 # These quids! 
 
 I am creating this repository and wiki to collect and share information useful to parents with children that are gender non-conforming in some way. Including, but not limited to, transgender, non-binary, genderfluid, and young adults that identify their sexuality as bi-sexual, same-sex or queer in some other way.
